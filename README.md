@@ -1,1 +1,1 @@
-# spacejunk-character
+# Space Junk Character Generator
