@@ -246,12 +246,12 @@ func chooseMotivation(profession string, roll int) string {
 		}
 	case "Junker":
 		m = map[int]string{
-			1: "Biological",
-			2: "Construction",
-			3: "Medical",
-			4: "Military",
-			5: "Mineral",
-			6: "Technology",
+			1: "Harvest silksteel cocoons from bio-engineered silkworms",
+			2: "Reclaim fuel cells from a dormant terraforming facility",
+			3: "Retrieve a lost cache of Colossal Sea Anemone anti-venom",
+			4: "Strip parts from exosuits left on an old battlefield",
+			5: "Extract time crystals from an abandoned chrono-mine",
+			6: "Recover the neural network from a derelict cargo vessel",
 		}
 	case "Mercenary":
 		m = map[int]string{
