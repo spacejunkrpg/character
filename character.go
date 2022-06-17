@@ -110,7 +110,7 @@ func chooseName(species string, givenRoll int, familyRoll int) string {
 func choosePersonality(rollOpen int, rollCon int, rollExtra int, rollAgree int, rollStability int) string {
 
 	o := map[int]string{
-		2:  "Close-mminded",
+		2:  "Close-minded",
 		3:  "Literal",
 		4:  "Rigid",
 		5:  "Analytical",
